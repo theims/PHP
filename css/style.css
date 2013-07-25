@@ -1,0 +1,22 @@
+#login_form{
+    display: block;
+    width: 200px;
+}
+
+#register_form{
+    display: block;
+    width: 200px;
+}
+
+#menu{
+    padding: 5px;
+}
+
+#tiedot{
+    padding: 5px;
+    float: right;
+}
+
+#register_form{
+    display: none;
+}
