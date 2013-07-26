@@ -26,6 +26,7 @@ include_once 'libs/login_user.php';
             <tr>
                 <td>
                     <a href="forum/forum.php">Forum</a>
+                    <p>Tuleeko tämä tähän</p>
                 </td>
             </tr>
         </table>
